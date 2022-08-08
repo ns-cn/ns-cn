@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱健康的要死，⚡⚡爱折腾
 
 <!--
 **ns-cn/ns-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
