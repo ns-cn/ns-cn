@@ -1,6 +1,7 @@
 
 <div align="center">
-<h1>🌱健康的要死，⚡⚡爱折腾</h1>
+  <h1>🌱🌱🌱健康的要死🌱🌱🌱</h1>
+<h6>⚡⚡折腾,避免形式重复；📖📖学习，避免内容重复</h6>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ns-cn)
 [![Mail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mail@tangyujun.cn)
